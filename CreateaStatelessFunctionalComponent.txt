@@ -1,0 +1,10 @@
+const MyComponent = function() {
+  
+  
+   return (
+    
+     <div>Challenge Completed</div>
+  
+    )
+
+   }
